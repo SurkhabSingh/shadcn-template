@@ -1,6 +1,8 @@
+Shadcn dummy template(cra)
+
 ## Install
 
-    $ git clone https://github.com/YOUR_USERNAME/PROJECT_TITLE
+    $ https://github.com/SurkhabSingh/shadcn-template.git
     $ cd shadcn-template
     $ npm install
 
@@ -14,8 +16,8 @@ Open `a/nice/path/to/a.file` then edit it with your settings. You will need:
 
 ## Running the project
 
-    $ yarn start
+    $ npm start
 
 ## Simple build for production
 
-    $ yarn build
+    $ npm build
