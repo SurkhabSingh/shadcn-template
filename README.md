@@ -1,4 +1,4 @@
-Shadcn dummy template(cra)
+## Shadcn dummy template(cra)
 
 ## Install
 
