@@ -1,4 +1,4 @@
-## Install(Shadcn dummy template(cra))
+## Shadcn template with CRA
 
     $ https://github.com/SurkhabSingh/shadcn-template.git
     $ cd shadcn-template
